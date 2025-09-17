@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.2.0](https://github.com/folke/flash.nvim/compare/v2.1.0...v2.2.0) (2025-09-17)
+
+
+### Features
+
+* **actions:** allow more customization for jump actions ([1da8f8a](https://github.com/folke/flash.nvim/commit/1da8f8a4c75bf550674735ee32c921a2cf513830))
+
+
+### Bug Fixes
+
+* **jump:** typo m =&gt; M. Closes [#407](https://github.com/folke/flash.nvim/issues/407) ([54b70a9](https://github.com/folke/flash.nvim/commit/54b70a91b1d116fffe974d69dae05a32c74b0ab0))
+
 ## [2.1.0](https://github.com/folke/flash.nvim/compare/v2.0.0...v2.1.0) (2024-07-07)
 
 
